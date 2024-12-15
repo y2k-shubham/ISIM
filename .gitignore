@@ -3,7 +3,6 @@
 
 # NetBeans specific
 nbproject/private/
-build/
 nbbuild/
 dist/
 nbdist/
@@ -17,3 +16,10 @@ nb-configuration.xml
 *.jar
 *.class
 
+# JetBrains
+.idea/
+*.iml
+
+# Java
+out/
+build/
